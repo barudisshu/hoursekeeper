@@ -10,8 +10,8 @@ maintainer := "Galudisu <galudisu@gmail.com>"
 scalaVersion := "2.12.8"
 
 // dependencies versions
-lazy val log4jVersion           = "2.7"
-lazy val scalaLoggingVersion    = "3.7.2"
+lazy val log4jVersion           = "2.12.1"
+lazy val scalaLoggingVersion    = "3.9.2"
 lazy val chillVersion           = "0.9.5"
 lazy val slf4jVersion           = "1.7.25"
 lazy val akkaHttpVersion        = "10.0.11"
